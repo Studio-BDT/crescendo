@@ -8,6 +8,9 @@
     Fixed the calendar day colors to be dark to be more visible
     Renamed everything Crescendo Initiative to just Crescendo
     Hamburger now shows on all mobile phones and is visible
+    Updated musicians page to match color scheme
+    Updated seniors page to match color scheme
+    Updated students page to match color scheme
 
 11/19/25
   Workers - NeoRazer, ImmatureGoat
