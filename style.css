@@ -768,6 +768,19 @@ section {
     margin-bottom: 2rem;
 }
 
+#map {
+    width: 100% !important;
+    height: 450px !important;
+    max-height: 450px;
+    border-radius: 8px;
+}
+
+.map-container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 .venues-list {
     background: var(--bg-light);
     padding: 2rem;

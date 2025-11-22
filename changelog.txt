@@ -1,3 +1,8 @@
+11/21/25
+  Workers - SamZua, ImmatureGoat
+  Things changed:
+    Changed google maps to a leaflet map for a cooler look (almost all samuel)
+
 11/20/25
   Workers - ImmatureGoat
   Things changed:
